@@ -1,4 +1,4 @@
-# 42tokyoPiscine (ali_piscine)
+# 42tokyoPiscine
 
 A collection of C exercises and small projects completed while attending the 42 Tokyo "piscine" (introductory bootcamp).
 
