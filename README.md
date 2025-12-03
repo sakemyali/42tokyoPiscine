@@ -1,6 +1,6 @@
 # 42tokyoPiscine
 
-A collection of C exercises and small projects completed while attending the 42 Tokyo "piscine" (introductory bootcamp).
+A collection of C exercises and small projects completed while attending the 42 Tokyo "piscine" (entrance exam bootcamp).
 
 This repository contains the classic 42-style exercises (C00..C11), several shell exercises, and a small project named `BSQ` (Biggest Square) with a Makefile and test maps.
 
@@ -13,8 +13,6 @@ This repository contains the classic 42-style exercises (C00..C11), several shel
 	- [Build & run the BSQ project (example)](#build--run-the-bsq-project-example)
 	- [Run individual exercises](#run-individual-exercises)
 - [Repository layout](#repository-layout)
-- [Where to get help](#where-to-get-help)
-- [Maintainers & contribution](#maintainers--contribution)
 
 ## What this project does
 
@@ -98,25 +96,3 @@ If you need to report bugs or request improvements, please include:
 - Steps to reproduce
 - The command you used to build / run
 - Platform and compiler (e.g. macOS 13, clang 14)
-
-## Maintainers & contribution
-
-- Maintained by the repository owner: `sakemyali` (see GitHub profile in the repository metadata).
-
-Contributions are welcome but please follow these lightweight rules:
-
-1. Open an issue to discuss larger changes before sending a large PR.
-2. Keep changes focused: one small feature or fix per PR.
-3. Use clear commit messages and follow the coding style already used in the repository.
-
-If you would like a formal CONTRIBUTING.md file added, please open an issue or submit a PR with your suggested text.
-
-## Notes
-
-- This repository does not include an explicit LICENSE file. If you intend to reuse or redistribute code, please ask the maintainer or add a LICENSE.
-- This README focuses on helping other developers get started quickly; deeper documentation or exhaustive tests are kept in separate files when needed.
-
----
-
-If you'd like, I can also add a minimal `CONTRIBUTING.md` and a simple LICENSE template — tell me which license you prefer (MIT, Apache-2.0, etc.).
-
